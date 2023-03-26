@@ -9,7 +9,7 @@
 
 ## Video Link
 
-[TakeHomeProject_SwiftUI]()
+[TakeHomeProject_SwiftUI](https://www.linkedin.com/feed/update/urn:li:activity:7045763818789953536/)
 
 ## Features 
 
