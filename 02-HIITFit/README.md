@@ -10,7 +10,7 @@
 
 ## Video Link
 
-[HIITFit]()
+[HIITFit](https://www.linkedin.com/feed/update/urn:li:activity:7099042396985815041/)
 
 
 ## Description
