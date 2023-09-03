@@ -7,3 +7,10 @@ This GitHub repo demonstrates my proficiency in SwiftUI and Combine frameworks, 
 ### TakeHomeProject SwiftUI
 
 - [01-TakeHomeProject_SwiftUI](01-TakeHomeProject_SwiftUI/README.md)
+
+- [02-HIITFit](02-HIITFit/README.md)
+
+- [03-Cards](03-Cards/README.md)
+
+- [04-TheMet](04-TheMet/README.md)
+
