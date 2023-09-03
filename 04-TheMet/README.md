@@ -10,7 +10,7 @@
 
 ## Video Link
 
-[TheMet]()
+[TheMet](https://www.linkedin.com/feed/update/urn:li:activity:7104115836373602304/)
 
 
 ## Description
