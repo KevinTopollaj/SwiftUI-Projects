@@ -52,13 +52,13 @@ Empty List Screen          |  Add Item Screen
 :-------------------------:|:-------------------------:
 ![](./img/S1.png)          |  ![](./img/S2.png)
 
-ToDo List Screen           |  Swipe to delete
+ToDo List Screen1          |  ToDo List Screen2
 :-------------------------:|:-------------------------:
 ![](./img/S3.png)          |  ![](./img/S4.png)
 
-Edit Mode Screen           | 
-:-------------------------:|
-![](./img/S5.png)          |
+Swipe to delete            | Edit Mode Screen
+:-------------------------:|:-------------------------:
+![](./img/S5.png)          |![](./img/S6.png)
 
 
 
