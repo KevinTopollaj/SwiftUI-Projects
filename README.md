@@ -17,3 +17,5 @@ This GitHub repo demonstrates my proficiency in SwiftUI and Combine frameworks, 
 - [05-PetSave](05-PetSave/README.md)
 
 - [06-TodoList](06-TodoList/README.md)
+
+- [07-ChuckNorrisJokes](07-ChuckNorrisJokes/README.md)
