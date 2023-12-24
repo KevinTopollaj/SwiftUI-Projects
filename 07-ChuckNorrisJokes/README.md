@@ -10,7 +10,7 @@
 
 ## Video Link
 
-[ChuckNorrisJokesApp]()
+[ChuckNorrisJokesApp](https://www.linkedin.com/feed/update/urn:li:activity:7144718372037996544/)
 
 
 ## Description
