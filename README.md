@@ -21,3 +21,5 @@ This GitHub repo demonstrates my proficiency in SwiftUI and Combine frameworks, 
 - [07-ChuckNorrisJokes](07-ChuckNorrisJokes/README.md)
 
 - [08-AppleFrameworks](08-AppleFrameworks/README.md)
+
+- [09-Appetizers](09-Appetizers/README.md)
