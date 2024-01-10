@@ -50,15 +50,15 @@
 
 Grid Layout Screen         |  Grid Layout Detail Screen
 :-------------------------:|:----------------------------:
-![](./img/S1.png)          |  ![](./img/S2.png)
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
 
 List Layout Screen         |  List Layout Detail Screen
 :-------------------------:|:----------------------------:
-![](./img/S3.png)          |  ![](./img/S4.png)
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
 
 Safari View Screen         |
 :-------------------------:|
-![](./img/S5.png)          |
+<img src="./img/S5.png" width="300"> |
 
 
 
