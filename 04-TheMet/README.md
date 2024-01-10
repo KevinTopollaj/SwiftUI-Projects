@@ -95,15 +95,15 @@ Finally, The Widget screen reinforces the app's commitment to user engagement by
 
 Item List Screen           |  Search Popup Screen
 :-------------------------:|:-------------------------:
-![](./img/S1.png)          |  ![](./img/S2.png)
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
 
 Item Detail Screen         |  Safari Detail Screen
 :-------------------------:|:-------------------------:
-![](./img/S3.png)          |  ![](./img/S4.png)
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
 
 Add Widget Screen          |  Widget Screen
 :-------------------------:|:-------------------------:
-![](./img/S5.png)          |  ![](./img/S6.png)
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
 
 
 
