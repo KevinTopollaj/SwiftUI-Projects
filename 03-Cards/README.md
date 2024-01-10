@@ -106,27 +106,27 @@ Cards is the definitive choice for iOS users seeking an immersive, user-friendly
 
 Splash Screen              |  Create New Card Screen
 :-------------------------:|:-------------------------:
-![](./img/S1.png)          |  ![](./img/S2.png)
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
 
 View Cards in Grid Screen  | View Cards in Vertical Scroll Screen
 :-------------------------:|:-------------------------:
-![](./img/S3.png)          |  ![](./img/S4.png)
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
 
 Add Photo Screen           |  Add Frames Screen
 :-------------------------:|:-------------------------:
-![](./img/S5.png)          |  ![](./img/S6.png)
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
 
 Add Stickers Screen        |  Add Text Screen
 :-------------------------:|:-------------------------:
-![](./img/S7.png)          |  ![](./img/S8.png)
+<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
 
 Copy and Delete Item       |  Paste Item
 :-------------------------:|:-------------------------:
-![](./img/S9.png)          |  ![](./img/S10.png)
+<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
 
 Save Card as Image Screen  |  Delete Card Screen
 :-------------------------:|:-------------------------:
-![](./img/S11.png)         |  ![](./img/S12.png)
+<img src="./img/S11.png" width="300"> | <img src="./img/S12.png" width="300">
 
 
 
