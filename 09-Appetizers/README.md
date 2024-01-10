@@ -54,23 +54,23 @@
 
 Loading Screen             |  Appetizer List Screen
 :-------------------------:|:----------------------------:
-![](./img/S1.png)          |  ![](./img/S2.png)
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
 
 Appetizer Detail Screen    |  Empty Account Screen
 :-------------------------:|:----------------------------:
-![](./img/S3.png)          |  ![](./img/S4.png)
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
 
 Filled Account Screen      |  Saved Profile
 :-------------------------:|:-------------------------:
-![](./img/S5.png)          |  ![](./img/S6.png)
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
 
 Empty Order Screen         |  Order List Screen
 :-------------------------:|:-------------------------:
-![](./img/S7.png)          |  ![](./img/S8.png)
+<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
 
 Swipe to Delete in Order Screen  |  Order List Screen
 :-------------------------------:|:-------------------------:
-![](./img/S9.png)                |  ![](./img/S10.png)
+<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
 
 
 
