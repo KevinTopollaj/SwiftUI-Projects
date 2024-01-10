@@ -80,27 +80,27 @@ Experience the Joy of Pet Adoption with PetSave - your all-in-one companion for 
 
 Onboarding Screen1         |  Onboarding Screen2
 :-------------------------:|:-------------------------:
-![](./img/S1.png)          |  ![](./img/S2.png)
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
 
 Onboarding Screen3         |  Share Location Screen
 :-------------------------:|:-------------------------:
-![](./img/S3.png)          |  ![](./img/S4.png)
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
 
 Location Popup             |  Animal Near You Screen
 :-------------------------:|:-------------------------:
-![](./img/S5.png)          |  ![](./img/S6.png)
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
 
 Animal Detail Screen       |  Animal Profile Picture
 :-------------------------:|:-------------------------:
-![](./img/S7.png)          |  ![](./img/S8.png)
+<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
 
 Search Screen              |  Search Filter Screen
 :-------------------------:|:-------------------------:
-![](./img/S9.png)          |  ![](./img/S10.png)
+<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
 
 Search Filter Sections     |  Search Results Screen
 :-------------------------:|:-------------------------:
-![](./img/S11.png)         |  ![](./img/S12.png)
+<img src="./img/S11.png" width="300"> | <img src="./img/S12.png" width="300">
 
 ## Architecture
 
