@@ -53,19 +53,19 @@ Experience the ultimate in joke curation and personalization with Chuck Norris J
 
 Fetching API Data          |  Swipe right
 :-------------------------:|:-------------------------:
-![](./img/S1.png)          |  ![](./img/S2.png)
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
 
 Swipe right HUD            |  Swipe left
 :-------------------------:|:-------------------------:
-![](./img/S3.png)          |  ![](./img/S4.png)
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
 
 Swipe left HUD             |  List of saved jokes
 :-------------------------:|:-------------------------:
-![](./img/S5.png)          |  ![](./img/S6.png)
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
 
 Delete an item in the list |  
 :-------------------------:|
-![](./img/S7.png)          |
+<img src="./img/S7.png" width="300"> |
 
 
 
