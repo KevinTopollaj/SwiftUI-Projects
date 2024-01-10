@@ -222,15 +222,15 @@ e. Code can be refactored with confidence.
 
 People Grid Screen         |  Detail Screen
 :-------------------------:|:-------------------------:
-![](./img/S1.png)  |  ![](./img/S2.png)
+<img src="./img/S1.png" width="250" height="195">  |  <img src="./img/S2.png" width="250" height="195">
 
 Create Screen              |  Create Error Screen
 :-------------------------:|:-------------------------:
-![](./img/S3.png)          |  ![](./img/S4.png)
+<img src="./img/S3.png" width="250" height="195">         |  <img src="./img/S4.png" width="250" height="195">
 
 Create Success Screen      |  Settings Screen
 :-------------------------:|:-------------------------:
-![](./img/S5.png)          |  ![](./img/S6.png)
+<img src="./img/S5.png" width="250" height="195">          |  <img src="./img/S6.png" width="250" height="195">
 
 
 ## Architecture
