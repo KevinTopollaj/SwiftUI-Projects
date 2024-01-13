@@ -10,7 +10,7 @@
 
 ## Video Link
 
-[Locations]()
+[Locations](https://www.linkedin.com/feed/update/urn:li:ugcPost:7133551362553827328/)
 
 
 ## Description
