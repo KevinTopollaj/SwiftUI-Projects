@@ -22,37 +22,37 @@ The Crypto Portfolio app in SwiftUI is a sophisticated investment management app
 ## Features
 
 
-### 1.Project Setup and UI Theme:
+### 1. Project Setup and UI Theme:
 
 - Elevate visual aesthetics by utilising assets and implementing a dedicated Color extension, introducing a unified ColorTheme for a sophisticated and polished user interface.
 
 
-### 2.Create a Reusable Networking Layer with Combine:
+### 2. Create a Reusable Networking Layer with Combine:
 
 - Establish a versatile Networking layer with Combine, ensuring efficient data retrieval. Implement a systematic model creation approach for each JSON structure, seamlessly fetching real-time data from the API through the Service layer and integrating it into the ViewModel for a cohesive View experience.
 
 
-### 3.Creating Home Screen and a custom Navigation Header:
+### 3. Creating Home Screen and a custom Navigation Header:
 
 - Craft an engaging Home View with a customized Navigation Header, complemented by a CoinRow View to elegantly display comprehensive data for each cryptocurrency.
 
 
-### 4.Created Portfolio Screen:
+### 4. Created Portfolio Screen:
 
 - Introduce a dedicated Portfolio Screen for users to effectively manage and monitor their cryptocurrency investments, providing a seamless and organized portfolio management experience.
 
 
-### 5.Search and Filtering of coins:
+### 5. Search and Filtering of coins:
 
 - Enhance user experience with intuitive search and filtering functionalities, empowering users to effortlessly locate and monitor specific coins within the application.
 
 
-### 6.Created Coin Detail Screen:
+### 6. Created Coin Detail Screen:
 
 - Develop an immersive Coin Detail Screen, offering users comprehensive insights into specific cryptocurrencies, also using charts to ensure a rich and informative user experience.
 
 
-### 7.Created Edit Portfolio Screen:
+### 7. Created Edit Portfolio Screen:
 
 - Elevate user interaction with a thoughtfully designed Edit Portfolio Screen, facilitating seamless modification of portfolio details for a personalized investment tracking experience.
 
