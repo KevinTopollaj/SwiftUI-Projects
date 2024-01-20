@@ -10,7 +10,7 @@
 
 ## Video Link
 
-[Crypto Portfolio]()
+[Crypto Portfolio](https://www.linkedin.com/feed/update/urn:li:ugcPost:7152043110850519040/)
 
 
 ## Description
