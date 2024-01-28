@@ -27,3 +27,5 @@ This GitHub repo demonstrates my proficiency in SwiftUI and Combine frameworks, 
 - [10-Locations](10-Locations/README.md)
 
 - [11-CryptoPortfolio](11-CryptoPortfolio/README.md)
+
+- [12-MyEvents](12-MyEvents/README.md)
