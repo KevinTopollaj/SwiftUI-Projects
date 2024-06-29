@@ -2,15 +2,32 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
 [AppleFrameworksApp](https://www.linkedin.com/feed/update/urn:li:activity:7147247534195867648/)
+
+
+
+## Screenshots
+
+Grid Layout Screen         |  Grid Layout Detail Screen
+:-------------------------:|:----------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+List Layout Screen         |  List Layout Detail Screen
+:-------------------------:|:----------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Safari View Screen         |
+:-------------------------:|
+<img src="./img/S5.png" width="300"> |
+
 
 
 ## Description
@@ -44,21 +61,6 @@
 
 - The Apple Frameworks is designed with the state management, powered by SwiftUI. We've thoughtfully implemented the Model-View-ViewModel (MVVM) design pattern and harnessed SwiftUI's arsenal of property wrappers like `@StateObject`, `@ObservedObject`, the `ObservableObject` protocol, and `@Published`. This architecture ensures that the app's user interface remains responsive and data flows smoothly, guaranteeing a seamless and delightful user experience.
 
-
-
-## Screenshots
-
-Grid Layout Screen         |  Grid Layout Detail Screen
-:-------------------------:|:----------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-List Layout Screen         |  List Layout Detail Screen
-:-------------------------:|:----------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Safari View Screen         |
-:-------------------------:|
-<img src="./img/S5.png" width="300"> |
 
 
 
