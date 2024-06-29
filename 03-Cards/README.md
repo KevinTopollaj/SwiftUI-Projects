@@ -2,15 +2,44 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
 [Cards](https://www.linkedin.com/feed/update/urn:li:activity:7101579112758018049/)
+
+
+
+## Screenshots
+
+Splash Screen              |  Create New Card Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+View Cards in Grid Screen  | View Cards in Vertical Scroll Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Add Photo Screen           |  Add Frames Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
+
+Add Stickers Screen        |  Add Text Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
+
+Copy and Delete Item       |  Paste Item
+:-------------------------:|:-------------------------:
+<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
+
+Save Card as Image Screen  |  Delete Card Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S11.png" width="300"> | <img src="./img/S12.png" width="300">
+
 
 
 ## Description
@@ -98,36 +127,6 @@ Cards is the definitive choice for iOS users seeking an immersive, user-friendly
 ### 12. Delete the Card:
 
 - Provides an option to delete unwanted cards, ensuring a clutter-free card collection.
-
-
-
-
-## Screenshots
-
-Splash Screen              |  Create New Card Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-View Cards in Grid Screen  | View Cards in Vertical Scroll Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Add Photo Screen           |  Add Frames Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
-
-Add Stickers Screen        |  Add Text Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
-
-Copy and Delete Item       |  Paste Item
-:-------------------------:|:-------------------------:
-<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
-
-Save Card as Image Screen  |  Delete Card Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S11.png" width="300"> | <img src="./img/S12.png" width="300">
-
 
 
 
