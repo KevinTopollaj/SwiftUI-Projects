@@ -2,14 +2,32 @@
 
 ## Table of contents
 * [Video Link](#video-link)
-* [Features](#Features)
 * [Screenshots](#screenshots)
+* [Features](#Features)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
 [TakeHomeProject_SwiftUI](https://www.linkedin.com/feed/update/urn:li:activity:7045763818789953536/)
+
+
+
+## Screenshots
+
+People Grid Screen         |  Detail Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+Create Screen              |  Create Error Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Create Success Screen      |  Settings Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
+
+
 
 ## Features 
 
@@ -217,20 +235,6 @@ e. Code can be refactored with confidence.
 
 - Preparing for the interview
 
-
-## Screenshots
-
-People Grid Screen         |  Detail Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-Create Screen              |  Create Error Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Create Success Screen      |  Settings Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
 
 
 ## Architecture
