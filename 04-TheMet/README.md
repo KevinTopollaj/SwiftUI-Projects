@@ -2,15 +2,32 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
 [TheMet](https://www.linkedin.com/feed/update/urn:li:activity:7104115836373602304/)
+
+
+
+## Screenshots
+
+Item List Screen           |  Search Popup Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+Item Detail Screen         |  Safari Detail Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Add Widget Screen          |  Widget Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
+
 
 
 ## Description
@@ -87,24 +104,6 @@ Finally, The Widget screen reinforces the app's commitment to user engagement by
 - With the widget in place, users can easily access featured items directly from their iOS device's home screen.
 
 - Upon selecting an item from the widget, the app smoothly transitions to the corresponding Detail screen, ensuring a seamless and uninterrupted exploration of the chosen item.
-
-
-
-
-## Screenshots
-
-Item List Screen           |  Search Popup Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-Item Detail Screen         |  Safari Detail Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Add Widget Screen          |  Widget Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
-
 
 
 
