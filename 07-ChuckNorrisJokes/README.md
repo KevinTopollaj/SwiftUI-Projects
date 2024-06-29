@@ -2,15 +2,36 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
 [ChuckNorrisJokesApp](https://www.linkedin.com/feed/update/urn:li:activity:7144718372037996544/)
+
+
+
+## Screenshots
+
+Fetching API Data          |  Swipe right
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+Swipe right HUD            |  Swipe left
+:-------------------------:|:-------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Swipe left HUD             |  List of saved jokes
+:-------------------------:|:-------------------------:
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
+
+Delete an item in the list |  
+:-------------------------:|
+<img src="./img/S7.png" width="300"> |
+
 
 
 ## Description
@@ -46,26 +67,6 @@ Experience the ultimate in joke curation and personalization with Chuck Norris J
 ### 4.Saving and Deleting Data Using Core Data:
 
 - Your laughter is valuable, and Chuck Norris Jokes goes the extra mile to preserve your favorite jokes. With Core Data integration, you can easily save jokes and they're always at your fingertips. But we also understand that humor can change over time. Deleting jokes is a breeze with the intuitive swipe feature, allowing you to refine your collection effortlessly and adapt it to your evolving sense of humor.
-
-
-
-## Screenshots
-
-Fetching API Data          |  Swipe right
-:-------------------------:|:-------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-Swipe right HUD            |  Swipe left
-:-------------------------:|:-------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Swipe left HUD             |  List of saved jokes
-:-------------------------:|:-------------------------:
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
-
-Delete an item in the list |  
-:-------------------------:|
-<img src="./img/S7.png" width="300"> |
 
 
 
