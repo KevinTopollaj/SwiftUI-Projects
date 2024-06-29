@@ -2,15 +2,44 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
 [Crypto Portfolio](https://www.linkedin.com/feed/update/urn:li:ugcPost:7152043110850519040/)
+
+
+
+## Screenshots
+
+Launch Screen              |  Home Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+Portfolio Screen           |  Coin Detail Screen 1
+:-------------------------:|:-------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Coin Detail Screen 2       | Settings Screen
+:-------------------------:| :-------------------------:
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
+
+Search in Home Screen      | Search in Portfolio Screen
+:-------------------------:| :-------------------------:
+<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
+
+Edit Portfolio Screen      | Search in Edit Portfolio Screen
+:-------------------------:| :-------------------------:
+<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
+
+Edit Portfolio Coin Selection | Sort by coin in Portfolio
+:----------------------------:| :-------------------------:
+<img src="./img/S11.png" width="300"> | <img src="./img/S12.png" width="300">
+
 
 
 ## Description
@@ -65,34 +94,6 @@ The Crypto Portfolio app in SwiftUI is a sophisticated investment management app
 ### 9. Settings screen using a List with Sections:
 
 - Provide users with a comprehensive Settings screen, thoughtfully organized into sections for intuitive navigation and a seamless user experience.
-
-
-
-## Screenshots
-
-Launch Screen              |  Home Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-Portfolio Screen           |  Coin Detail Screen 1
-:-------------------------:|:-------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Coin Detail Screen 2       | Settings Screen
-:-------------------------:| :-------------------------:
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
-
-Search in Home Screen      | Search in Portfolio Screen
-:-------------------------:| :-------------------------:
-<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
-
-Edit Portfolio Screen      | Search in Edit Portfolio Screen
-:-------------------------:| :-------------------------:
-<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
-
-Edit Portfolio Coin Selection | Sort by coin in Portfolio
-:----------------------------:| :-------------------------:
-<img src="./img/S11.png" width="300"> | <img src="./img/S12.png" width="300">
 
 
 
