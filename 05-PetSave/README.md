@@ -2,15 +2,45 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
+
 
 ## Video Link
 
 [PetSave](https://www.linkedin.com/feed/update/urn:li:activity:7116791851965161472/)
+
+
+
+## Screenshots
+
+Onboarding Screen1         |  Onboarding Screen2
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+Onboarding Screen3         |  Share Location Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Location Popup             |  Animal Near You Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
+
+Animal Detail Screen       |  Animal Profile Picture
+:-------------------------:|:-------------------------:
+<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
+
+Search Screen              |  Search Filter Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
+
+Search Filter Sections     |  Search Results Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S11.png" width="300"> | <img src="./img/S12.png" width="300">
+
 
 
 ## Description
@@ -75,32 +105,6 @@ Experience the Joy of Pet Adoption with PetSave - your all-in-one companion for 
 - PetSave adheres to Apple's guidelines for app privacy. It properly requests user permissions for accessing device features and provides transparent information about the collection and usage of user data. By prioritizing privacy and building user trust, PetSave safeguards user privacy and ensures compliance with privacy regulations.
 
 
-
-## Screenshots
-
-Onboarding Screen1         |  Onboarding Screen2
-:-------------------------:|:-------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-Onboarding Screen3         |  Share Location Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Location Popup             |  Animal Near You Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
-
-Animal Detail Screen       |  Animal Profile Picture
-:-------------------------:|:-------------------------:
-<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
-
-Search Screen              |  Search Filter Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
-
-Search Filter Sections     |  Search Results Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S11.png" width="300"> | <img src="./img/S12.png" width="300">
 
 ## Architecture
 
