@@ -2,15 +2,40 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
 [My Events](https://www.linkedin.com/feed/update/urn:li:activity:7157447246194618369)
+
+
+
+## Screenshots
+
+No Events Screen           |  Create Event Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S0.png" width="300"> | <img src="./img/S1.png" width="300">
+
+Events List Screen         |  Event Detail Screen 
+:-------------------------:|:-------------------------:
+<img src="./img/S2.png" width="300"> | <img src="./img/S3.png" width="300">
+
+Create Event Validation    | Event swipe actions
+:-------------------------:| :-------------------------:
+<img src="./img/S4.png" width="300"> | <img src="./img/S5.png" width="300">
+
+Edit Event Screen          | Search Events
+:-------------------------:| :-------------------------:
+<img src="./img/S6.png" width="300"> | <img src="./img/S7.png" width="300">
+
+ No Searched Event found   | Filter and Sort Events
+:-------------------------:| :-------------------------:
+<img src="./img/S8.png" width="300"> | <img src="./img/S9.png" width="300">
+
 
 
 ## Description
@@ -55,30 +80,6 @@ Welcome to My Events app, where SwiftUI seamlessly integrates with Core Data for
 ### 7. Filter and Sort events in Core Data:
 
 - Tailor your event viewing experience with advanced filtering and sorting options integrated with Core Data. Allows users to effortlessly organize and prioritize their favourite events.
-
-
-
-## Screenshots
-
-No Events Screen           |  Create Event Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S0.png" width="300"> | <img src="./img/S1.png" width="300">
-
-Events List Screen         |  Event Detail Screen 
-:-------------------------:|:-------------------------:
-<img src="./img/S2.png" width="300"> | <img src="./img/S3.png" width="300">
-
-Create Event Validation    | Event swipe actions
-:-------------------------:| :-------------------------:
-<img src="./img/S4.png" width="300"> | <img src="./img/S5.png" width="300">
-
-Edit Event Screen          | Search Events
-:-------------------------:| :-------------------------:
-<img src="./img/S6.png" width="300"> | <img src="./img/S7.png" width="300">
-
- No Searched Event found   | Filter and Sort Events
-:-------------------------:| :-------------------------:
-<img src="./img/S8.png" width="300"> | <img src="./img/S9.png" width="300">
 
 
 
