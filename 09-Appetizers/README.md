@@ -2,15 +2,40 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
 [AppetizersApp](https://www.linkedin.com/feed/update/urn:li:activity:7149784250790174720/)
+
+
+
+## Screenshots
+
+Loading Screen             |  Appetizer List Screen
+:-------------------------:|:----------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+Appetizer Detail Screen    |  Empty Account Screen
+:-------------------------:|:----------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Filled Account Screen      |  Saved Profile
+:-------------------------:|:-------------------------:
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
+
+Empty Order Screen         |  Order List Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
+
+Swipe to Delete in Order Screen  |  Order List Screen
+:-------------------------------:|:-------------------------:
+<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
+
 
 
 ## Description
@@ -48,29 +73,6 @@
 ### 6. State Management using SwiftUI:
 
 - Appetizers app embraces cutting-edge state management, driven by the SwiftUI framework. Grounded in the Model-View-ViewModel (MVVM) design pattern, the app expertly leverages property wrappers, including `@StateObject`, `@ObservedObject`, `@EnvironmentObject`, and object that conform to the `ObservableObject` protocol, with the `@Published` properties. This architectural approach ensures a highly responsive user interface and seamless data flow, guaranteeing a delightful user experience.
-
-
-## Screenshots
-
-Loading Screen             |  Appetizer List Screen
-:-------------------------:|:----------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-Appetizer Detail Screen    |  Empty Account Screen
-:-------------------------:|:----------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Filled Account Screen      |  Saved Profile
-:-------------------------:|:-------------------------:
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
-
-Empty Order Screen         |  Order List Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
-
-Swipe to Delete in Order Screen  |  Order List Screen
-:-------------------------------:|:-------------------------:
-<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
 
 
 
