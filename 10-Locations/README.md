@@ -2,15 +2,32 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
 [Locations](https://www.linkedin.com/feed/update/urn:li:ugcPost:7133551362553827328/)
+
+
+
+## Screenshots
+
+Map Screen                 |  Location List Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+Location Detail Screen 1   |  Location Detail Screen 2
+:-------------------------:|:-------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Safari Screen              | 
+:-------------------------:|
+<img src="./img/S5.png" width="300"> |
+
 
 
 ## Description
@@ -44,21 +61,6 @@ Embark on a captivating journey with the Locations app in SwiftUI. Explore the i
 
 - Uncover the knowledge with the Safari Information screen. Seamlessly transition from the Location Detail screen to Safari, where a curated Wikipedia link awaits. An in depth information about the selected location, enriching your understanding and providing a comprehensive experience.
 
-
-
-## Screenshots
-
-Map Screen                 |  Location List Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-Location Detail Screen 1   |  Location Detail Screen 2
-:-------------------------:|:-------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Safari Screen              | 
-:-------------------------:|
-<img src="./img/S5.png" width="300"> |
 
 
 
