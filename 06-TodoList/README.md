@@ -2,15 +2,32 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
 [TodoList](https://www.linkedin.com/feed/update/urn:li:activity:7139667588699123713/)
+
+
+
+## Screenshots
+
+Empty List Screen          |  Add Item Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+ToDo List Screen1          |  ToDo List Screen2
+:-------------------------:|:-------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Swipe to delete            | Edit Mode Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
+
 
 
 ## Description
@@ -43,22 +60,6 @@ Elevate your task management experience with the SwiftUI-powered Todo List app. 
 ### 5.Saving items to persist the data:
 
 - Experience continuity in your productivity journey. Todo List app ensures data persistence by automatically saving your items. Every time you close the app, rest assured that your tasks are securely stored, ready to greet you upon your next launch. Never worry about losing progress again.
-
-
-
-## Screenshots
-
-Empty List Screen          |  Add Item Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-ToDo List Screen1          |  ToDo List Screen2
-:-------------------------:|:-------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Swipe to delete            | Edit Mode Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
 
 
 
