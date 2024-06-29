@@ -2,15 +2,40 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
 [HIITFit](https://www.linkedin.com/feed/update/urn:li:activity:7099042396985815041/)
+
+
+
+## Screenshots
+
+Welcome Screen             |  History Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
+
+History Screen Expanded    |  Edit History Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
+
+Add Exercises Screen       |  Report Screen Chart
+:-------------------------:|:-------------------------:
+<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
+
+Report Screen Bar Chart    |  Exercise Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
+
+Timer Exercise Screen      |  Exercise Completed Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
+
 
 
 ## Description
@@ -84,32 +109,6 @@ Revolutionise the way you train. Unlock your true potential with HIITFit – whe
 - Completion brings celebration!
 - The High-Five screen serves as the perfect conclusion to your workout journey.
 - Feel a sense of accomplishment as you're greeted with a satisfying visual acknowledgement, motivating you to conquer your goals and strive for greatness.
-
-
-
-
-## Screenshots
-
-Welcome Screen             |  History Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S1.png" width="300"> | <img src="./img/S2.png" width="300">
-
-History Screen Expanded    |  Edit History Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S3.png" width="300"> | <img src="./img/S4.png" width="300">
-
-Add Exercises Screen       |  Report Screen Chart
-:-------------------------:|:-------------------------:
-<img src="./img/S5.png" width="300"> | <img src="./img/S6.png" width="300">
-
-Report Screen Bar Chart    |  Exercise Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S7.png" width="300"> | <img src="./img/S8.png" width="300">
-
-Timer Exercise Screen      |  Exercise Completed Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S9.png" width="300"> | <img src="./img/S10.png" width="300">
-
 
 
 
